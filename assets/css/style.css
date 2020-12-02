@@ -876,6 +876,12 @@ section {
   transition: .9s;
 }
 
+/* FAQs Section
+---------------------------------*/
+.faqs {
+  text-align: center;
+}
+
 /* Facts Section
 --------------------------------*/
 #facts {
