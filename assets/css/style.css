@@ -675,7 +675,7 @@ section {
 /* About Us Section
 --------------------------------*/
 #about {
-  background: url("../img/about-bg.jpg") center top no-repeat fixed;
+  background: url("../img/trampoline.jpg") center top no-repeat fixed;
   background-size: cover;
   padding: 60px 0 40px 0;
   position: relative;
@@ -1280,6 +1280,15 @@ section {
 
 /* Team Section
 --------------------------------*/
+#llp{
+  text-align: center;
+}
+
+/* #legalLink a:hover {
+  background: #18d26e;
+  color: #fff;
+} */
+
 #team {
   background: #fff;
   padding: 60px 0;
@@ -1515,8 +1524,8 @@ section {
 --------------------------------------------------------------*/
 
 #logoBottom {
-  width: 60px;
-  height: auto;
+  width: auto;
+  height: 250px;
 }
 
 #footer {
